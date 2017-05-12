@@ -1,6 +1,6 @@
 /***********************************************************
-* Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
-* Website: https://github.com/MinhasKamal/DownGit          *
+* Developer: Jan Park (hi@parkjan.com)       *
+* Website: https://github.com/pakchano/DownGit          *
 * License: MIT License                                     *
 ***********************************************************/
 
